@@ -3,7 +3,6 @@
 ## I'm a Full Stack Developer, who love to code! 
 
 - 📚 I’m React, Javascript, Nodejs and C#(.NET) Developer.
-- 🥅 2021 Goals: Master React.
 - ⚡ Fun fact: I love to make delicious food on my free time, read and travel new places.
 
 ### Languages and Tools:
